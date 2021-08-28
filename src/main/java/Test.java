@@ -6,5 +6,6 @@ public class Test {
         System.out.println("atguigu333333");
         System.out.println("atguigu333333second");
         System.out.println("mastercommit");
+        System.out.println("pushidea到githup");
     }
 }
